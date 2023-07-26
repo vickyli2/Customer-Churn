@@ -1,1 +1,1 @@
-# Customer-Churn
+# Product Clustering & Customer Basket Study
